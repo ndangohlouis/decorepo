@@ -1,1 +1,4 @@
 # decorepo
+lopy
+kolo
+ajong
