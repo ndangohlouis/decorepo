@@ -1,4 +1,2 @@
 # decorepo
-lopy
-kolo
-ajong
+This is for turtorial purpose .
